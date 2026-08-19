@@ -3,7 +3,7 @@ This is a boilerplate project used for starting new projects!
 
 ## Set up
 You can start a new project using this template with 1 command using my `exp` script! 🤩<br>
-Learn more [here](https://github.com/malcolmkiano/exp).
+Learn more [here](https://github.com/kshncodes/exp).
 
 If you prefer the manual way, could complete the following steps to start a new project (NEW-PROJECT-NAME):
 
